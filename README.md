@@ -1,4 +1,4 @@
-Using this we can simulate the connectionless and connection-oriented notifications subscription.
+Sample notifications clients for both connectionless and connection-oriented notifications.
 
 Connection-less Client:
 
